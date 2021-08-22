@@ -31,7 +31,7 @@ The [quantile function][quantile-function] for an [inverse gamma][inverse-gamma]
 <!-- <equation class="equation" label="eq:invgamma_quantile_function" align="center" raw="Q(p;\alpha,\beta) = \frac{\beta \, \Gamma(\alpha)}{\Gamma(\alpha, p)}" alt="Quantile function for an inverse gamma distribution."> -->
 
 <div class="equation" align="center" data-raw-text="Q(p;\alpha,\beta) = \frac{\beta \, \Gamma(\alpha)}{\Gamma(\alpha, p)}" data-equation="eq:invgamma_quantile_function">
-    <img src="https://cdn.rawgit.com/stdlib-js/stdlib/7e0a95722efd9c771b129597380c63dc6715508b/lib/node_modules/@stdlib/stats/base/dists/invgamma/quantile/docs/img/equation_invgamma_quantile_function.svg" alt="Quantile function for an inverse gamma distribution.">
+    <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/invgamma/quantile/docs/img/equation_invgamma_quantile_function.svg" alt="Quantile function for an inverse gamma distribution.">
     <br>
 </div>
 
@@ -211,7 +211,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-invgamma-quantile/main/LICENSE
 
-[inverse-gamma]: https://en.wikipedia.org/wiki/Inverse_Gamma_distribution
+[inverse-gamma]: https://en.wikipedia.org/wiki/Inverse-gamma_distribution
 
 [quantile-function]: https://en.wikipedia.org/wiki/Quantile_function
 
