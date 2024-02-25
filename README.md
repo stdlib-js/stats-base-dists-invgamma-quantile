@@ -65,13 +65,13 @@ for `0 <= p < 1`, where `alpha > 0` is the shape parameter and `beta > 0` is the
 ## Usage
 
 ```javascript
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@v0.2.1-esm/index.mjs';
 ```
 
 #### quantile( p, alpha, beta )
@@ -153,7 +153,7 @@ y = myquantile( 0.4 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@esm/index.mjs';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@v0.2.1-esm/index.mjs';
 
 var alpha;
 var beta;
