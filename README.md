@@ -65,13 +65,13 @@ for `0 <= p < 1`, where `alpha > 0` is the shape parameter and `beta > 0` is the
 ## Usage
 
 ```javascript
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@deno/mod.js';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@v0.2.3-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@v0.2.3-deno/mod.js';
 ```
 
 #### quantile( p, alpha, beta )
@@ -149,7 +149,7 @@ y = myquantile( 0.4 );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@deno/mod.js';
+import quantile from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-invgamma-quantile@v0.2.3-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
