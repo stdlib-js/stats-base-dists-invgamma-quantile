@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-21)
+## Unreleased (2026-10-11)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`343ead9`](https://github.com/stdlib-js/stdlib/commit/343ead96836e3b069ce48b9d749ce4881174dd2d) - **test:** migrate `stats/base/dists/invgamma/quantile` to ULP-based assertions [(#16004)](https://github.com/stdlib-js/stdlib/pull/16004) _(by Athan Reines)_
 -   [`8df3c50`](https://github.com/stdlib-js/stdlib/commit/8df3c505604130c2c0cdf20814d2126c9ef58e69) - **docs:** fix parameter descriptions and update spacing [(#13671)](https://github.com/stdlib-js/stdlib/pull/13671) _(by Philipp Burckhardt)_
 -   [`b06219c`](https://github.com/stdlib-js/stdlib/commit/b06219c7a1fa57a41fa94841738a83f2d98f62bd) - **chore:** clean-up [(#13653)](https://github.com/stdlib-js/stdlib/pull/13653) _(by Philipp Burckhardt)_
 -   [`525c0cb`](https://github.com/stdlib-js/stdlib/commit/525c0cb527f9e8d116489aaf0dbb722abc471aeb) - **feat:** add C implementation for `stats/base/dists/invgamma/quantile` [(#13640)](https://github.com/stdlib-js/stdlib/pull/13640) _(by Ujjwal Verma, Philipp Burckhardt)_
